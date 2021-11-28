@@ -24,11 +24,11 @@ html {
 }
 
 .gamebutton {
-	border: none;
+	border: solid;
 	background: #ddd;
 	color: #333;
 	padding: 10px 20px;
-	outline: none;
+	margin: 10px;
 	font-family: monospace;
 	cursor: pointer;
 }
